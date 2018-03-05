@@ -1,9 +1,9 @@
 # pyspaces
 Works with Linux namespaces through glibc with pure python
 
-[![License](https://pypip.in/license/pyspaces/badge.svg)](https://pypi.python.org/pypi/pyspaces/)
-[![Latest Version](https://pypip.in/version/pyspaces/badge.svg)](https://pypi.python.org/pypi/pyspaces/)
-[![Downloads](https://pypip.in/download/pyspaces/badge.svg)](https://pypi.python.org/pypi/pyspaces/)
+[![License](https://img.shields.io/pypi/l/pyspaces.svg)](https://pypi.python.org/pypi/pyspaces/)
+[![Latest Version](https://img.shields.io/pypi/v/pyspaces.svg)](https://pypi.python.org/pypi/pyspaces/)
+[![Downloads](https://img.shields.io/pypi/dm/pyspaces.svg)](https://pypi.python.org/pypi/pyspaces/)
 [![Docs](https://readthedocs.org/projects/pyspaces/badge/)](https://pyspaces.readthedocs.org/en/latest/)
 
 discuss: [reddit](https://www.reddit.com/r/Python/comments/33z84l/linux_namespaces_througth_glibc_with_pure_python/), [habrahabr](http://habrahabr.ru/company/wargaming/blog/256647/)
